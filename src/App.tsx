@@ -16,7 +16,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          <div className="home" style={{margin: 'auto'}}>
+            <span style={{fontSize: '45dp' }}>Fuck you bitches</span>
+          </div>
         </a>
       </header>
     </div>
